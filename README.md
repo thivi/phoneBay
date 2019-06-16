@@ -1,4 +1,4 @@
-# 99xassignment
+# The Phone Bay
 ## Install json-server
 ```
 npm install -g json-server
