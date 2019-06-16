@@ -1,0 +1,149 @@
+{
+    "items":[
+        {
+            "id":1,
+            "name":"Xiaomi Pocophone F1",
+            "description":"Snapdragon 845, 6GB RAM, 64GB ROM",
+            "price":50000,
+            "discount":0.2,
+            "stock":10,
+            "image":"https://ksassets.timeincuk.net/wp/uploads/sites/54/2018/08/Pocophone-F1-top-down-by-lamp-920x518.jpg",
+            "spec":{
+                "SoC":"Snapdragon 845",
+                "RAM":"6GB",
+                "ROM":"64GB",
+                "frontCam":"21MP single lens",
+                "rearCam":"Dual camera 12MP+5MP",
+                "battery":"4000 mAh",
+                "display":"Corning Gorilla Glass"
+            }
+        },
+        {
+            "id":2,
+            "name":"Xiaomi Pocophone F1",
+            "description":"Snapdragon 845, 6GB RAM, 64GB ROM",
+            "price":50000,
+            "discount":0,
+            "stock":10,
+            "image":"https://ksassets.timeincuk.net/wp/uploads/sites/54/2018/08/Pocophone-F1-top-down-by-lamp-920x518.jpg",
+            "spec":{
+                "SoC":"Snapdragon 845",
+                "RAM":"6GB",
+                "ROM":"64GB",
+                "frontCam":"21MP single lens",
+                "rearCam":"Dual camera 12MP+5MP",
+                "battery":"4000 mAh",
+                "display":"Corning Gorilla Glass"
+            }
+        },
+        {
+            "id":3,
+            "name":"Xiaomi Pocophone F1",
+            "description":"Snapdragon 845, 6GB RAM, 64GB ROM",
+            "price":50000,
+            "discount":0,
+            "stock":10,
+            "image":"https://ksassets.timeincuk.net/wp/uploads/sites/54/2018/08/Pocophone-F1-top-down-by-lamp-920x518.jpg",
+            "spec":{
+                "SoC":"Snapdragon 845",
+                "RAM":"6GB",
+                "ROM":"64GB",
+                "frontCam":"21MP single lens",
+                "rearCam":"Dual camera 12MP+5MP",
+                "battery":"4000 mAh",
+                "display":"Corning Gorilla Glass"
+            }
+        },
+        {
+            "id":4,
+            "name":"Xiaomi Pocophone F1",
+            "description":"Snapdragon 845, 6GB RAM, 64GB ROM",
+            "price":50000,
+            "discount":0,
+            "stock":10,
+            "image":"https://ksassets.timeincuk.net/wp/uploads/sites/54/2018/08/Pocophone-F1-top-down-by-lamp-920x518.jpg",
+            "spec":{
+                "SoC":"Snapdragon 845",
+                "RAM":"6GB",
+                "ROM":"64GB",
+                "frontCam":"21MP single lens",
+                "rearCam":"Dual camera 12MP+5MP",
+                "battery":"4000 mAh",
+                "display":"Corning Gorilla Glass"
+            }
+        },
+        {
+            "id":5,
+            "name":"Xiaomi Pocophone F1",
+            "description":"Snapdragon 845, 6GB RAM, 64GB ROM",
+            "price":50000,
+            "discount":0,
+            "stock":10,
+            "image":"https://ksassets.timeincuk.net/wp/uploads/sites/54/2018/08/Pocophone-F1-top-down-by-lamp-920x518.jpg",
+            "spec":{
+                "SoC":"Snapdragon 845",
+                "RAM":"6GB",
+                "ROM":"64GB",
+                "frontCam":"21MP single lens",
+                "rearCam":"Dual camera 12MP+5MP",
+                "battery":"4000 mAh",
+                "display":"Corning Gorilla Glass"
+            }
+        },
+        {
+            "id":6,
+            "name":"Xiaomi Pocophone F1",
+            "description":"Snapdragon 845, 6GB RAM, 64GB ROM",
+            "price":50000,
+            "discount":0,
+            "stock":10,
+            "image":"https://ksassets.timeincuk.net/wp/uploads/sites/54/2018/08/Pocophone-F1-top-down-by-lamp-920x518.jpg",
+            "spec":{
+                "SoC":"Snapdragon 845",
+                "RAM":"6GB",
+                "ROM":"64GB",
+                "frontCam":"21MP single lens",
+                "rearCam":"Dual camera 12MP+5MP",
+                "battery":"4000 mAh",
+                "display":"Corning Gorilla Glass"
+            }
+        },        
+        {
+            "id":7,
+            "name":"Xiaomi Pocophone F1",
+            "description":"Snapdragon 845, 6GB RAM, 64GB ROM",
+            "price":50000,
+            "discount":0,
+            "stock":10,
+            "image":"https://ksassets.timeincuk.net/wp/uploads/sites/54/2018/08/Pocophone-F1-top-down-by-lamp-920x518.jpg",
+            "spec":{
+                "SoC":"Snapdragon 845",
+                "RAM":"6GB",
+                "ROM":"64GB",
+                "frontCam":"21MP single lens",
+                "rearCam":"Dual camera 12MP+5MP",
+                "battery":"4000 mAh",
+                "display":"Corning Gorilla Glass"
+            }
+        },        
+        {
+            "id":8,
+            "name":"Xiaomi Pocophone F1",
+            "description":"Snapdragon 845, 6GB RAM, 64GB ROM",
+            "price":50000,
+            "discount":0,
+            "stock":10,
+            "image":"https://ksassets.timeincuk.net/wp/uploads/sites/54/2018/08/Pocophone-F1-top-down-by-lamp-920x518.jpg",
+            "spec":{
+                "SoC":"Snapdragon 845",
+                "RAM":"6GB",
+                "ROM":"64GB",
+                "frontCam":"21MP single lens",
+                "rearCam":"Dual camera 12MP+5MP",
+                "battery":"4000 mAh",
+                "display":"Corning Gorilla Glass"
+            }
+        }
+    ]
+  
+}
