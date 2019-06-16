@@ -1,5 +1,12 @@
 # 99xassignment
-
+## Install json-server
+```
+npm install -g json-server
+```
+## Start the server
+```
+json-server .\mock-db\db.json
+```
 ## Project setup
 ```
 npm install
